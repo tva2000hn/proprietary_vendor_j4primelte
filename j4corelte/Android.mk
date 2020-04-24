@@ -18,3 +18,4 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),j4corelte)
 endif
+
